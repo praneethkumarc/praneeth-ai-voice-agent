@@ -1,0 +1,6 @@
+{
+  "name": "Praneeth AI Employee",
+  "description": "AI employee platform to create voice agents, connect phone numbers, manage calls, qualify leads, and run campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
